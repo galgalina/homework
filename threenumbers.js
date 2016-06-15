@@ -1,6 +1,6 @@
 var a = 30;
 var b = 20;
-var c = 50;
+var c = 30;
 
 if(a > b) {
 	if(a > c){
